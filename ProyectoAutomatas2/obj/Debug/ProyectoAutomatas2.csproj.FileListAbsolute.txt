@@ -1,0 +1,7 @@
+C:\Users\pc\AppData\Local\Temporary Projects\ProyectoAutomatas2\bin\Debug\ProyectoAutomatas2.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\bin\Debug\ProyectoAutomatas2.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\bin\Debug\ProyectoAutomatas2.exe
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\bin\Debug\ProyectoAutomatas2.pdb
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\obj\Debug\ProyectoAutomatas2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\obj\Debug\ProyectoAutomatas2.exe
+C:\Users\pc\Desktop\Escuela\ceti\4to\Automatas\ProyectoAutomatas2\ProyectoAutomatas2\obj\Debug\ProyectoAutomatas2.pdb
